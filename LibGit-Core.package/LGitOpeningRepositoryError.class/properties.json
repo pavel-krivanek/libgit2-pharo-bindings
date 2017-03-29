@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-Exceptions",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitOpeningRepositoryError",
-	"pools" : [
-		 ],
 	"super" : "LGitAbstractError",
-	"type" : "normal" }
+	"category" : "LibGit-Core-Exceptions",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitOpeningRepositoryError",
+	"type" : "normal"
+}

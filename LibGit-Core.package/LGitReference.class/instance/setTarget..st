@@ -1,3 +1,3 @@
 operations
 setTarget: aReference
-	self setTargetId: aReference resolve object id
+	self setTargetId: aReference object id

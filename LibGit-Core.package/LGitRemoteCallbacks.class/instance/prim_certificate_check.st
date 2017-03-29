@@ -1,4 +1,4 @@
 libgit-fields
 prim_certificate_check
 	"This method was automatically generated"
-	^LGitTransportCertificateCheckCallback forAddress: (handle unsignedLongAt: 17)
+	^LGitTransportCertificateCheckCallback forAddress: ((handle pointerAt: OFFSET_PRIM_CERTIFICATE_CHECK) asInteger)

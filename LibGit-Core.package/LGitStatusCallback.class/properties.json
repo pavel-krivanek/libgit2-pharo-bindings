@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-FFI-Callbacks",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitStatusCallback",
-	"pools" : [
-		 ],
 	"super" : "LGitCallback",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Callbacks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitStatusCallback",
+	"type" : "normal"
+}

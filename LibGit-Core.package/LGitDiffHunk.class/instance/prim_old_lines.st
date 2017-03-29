@@ -1,4 +1,4 @@
 libgit-fields
 prim_old_lines
 	"This method was automatically generated"
-	^handle signedLongAt: 5
+	^handle signedLongAt: OFFSET_PRIM_OLD_LINES

@@ -7,4 +7,4 @@ isProperRepository
 		flags: LGitOpenFlagEnum git_repository_open_no_search
 		ceiling_dirs: nil.
 		
-	^ return = LGitReturnCodeEnum git_ok
+	^ return isOk

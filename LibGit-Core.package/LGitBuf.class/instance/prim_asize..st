@@ -1,4 +1,4 @@
 libgit-fields
 prim_asize: anObject
 	"This method was automatically generated"
-	handle unsignedLongAt: 5 put: anObject
+	handle unsignedLongAt: OFFSET_PRIM_ASIZE put: anObject

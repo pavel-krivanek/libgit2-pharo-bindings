@@ -1,15 +1,16 @@
 {
+	"commentStamp" : "MaxLeske 3/17/2014 13:57",
+	"super" : "Object",
 	"category" : "LibGit-Core-Abstracts",
 	"classinstvars" : [
 		"representationType",
-		"declaration" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "MaxLeske 3/17/2014 13:57",
+		"declaration"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"value" ],
+		"value"
+	],
 	"name" : "LGitExternalEnumerationUInt32",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,4 +1,4 @@
 libgit-fields
 prim_size
 	"This method was automatically generated"
-	^handle signedLongLongAt: 25
+	^handle signedLongLongAt: OFFSET_PRIM_SIZE

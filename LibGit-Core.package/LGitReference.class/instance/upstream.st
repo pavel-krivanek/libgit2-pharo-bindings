@@ -1,7 +1,7 @@
 accessing
 upstream
 	| upstream | 
-	upstream  := LGitReference of: self repository.
+	upstream  := self class of: self repository.
 
 	[ self withReturnHandlerDo: [
 		self branch_upstream: upstream local: self

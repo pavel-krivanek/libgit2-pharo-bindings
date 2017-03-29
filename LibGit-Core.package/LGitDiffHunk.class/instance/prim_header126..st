@@ -1,4 +1,4 @@
 libgit-fields
 prim_header126: anObject
 	"This method was automatically generated"
-	handle signedByteAt: 146 put: anObject
+	handle signedByteAt: OFFSET_PRIM_HEADER126 put: anObject

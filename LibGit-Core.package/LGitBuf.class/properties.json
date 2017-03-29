@@ -1,14 +1,15 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitBuf",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_ASIZE",
+		"OFFSET_PRIM_PTR",
+		"OFFSET_PRIM_SIZE"
+	],
+	"instvars" : [ ],
+	"name" : "LGitBuf",
+	"type" : "normal"
+}

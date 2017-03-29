@@ -1,4 +1,4 @@
 libgit-fields
 prim_data3
 	"This method was automatically generated"
-	^handle unsignedByteAt: 3
+	^handle unsignedByteAt: OFFSET_PRIM_DATA3

@@ -1,16 +1,17 @@
 {
-	"category" : "LibGit-Core-NonCoreObjects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"Credentials" ],
 	"commentStamp" : "",
+	"super" : "LGitRepositoryObject",
+	"category" : "LibGit-Core-NonCoreObjects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Credentials"
+	],
 	"instvars" : [
 		"remoteName",
 		"url",
-		"fetchSpec" ],
+		"fetchSpec"
+	],
 	"name" : "LGitRemote",
-	"pools" : [
-		 ],
-	"super" : "LGitRepositoryObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

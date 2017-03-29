@@ -1,14 +1,19 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitMergeOptions",
-	"pools" : [
-		 ],
 	"super" : "LGitStructWithDefaults",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_FILE_FAVOR",
+		"OFFSET_PRIM_FILE_FLAGS",
+		"OFFSET_PRIM_FLAGS",
+		"OFFSET_PRIM_METRIC",
+		"OFFSET_PRIM_RENAME_THRESHOLD",
+		"OFFSET_PRIM_TARGET_LIMIT",
+		"OFFSET_PRIM_VERSION"
+	],
+	"instvars" : [ ],
+	"name" : "LGitMergeOptions",
+	"type" : "normal"
+}

@@ -1,4 +1,4 @@
 libgit-fields
 prim_push_negotiation
 	"This method was automatically generated"
-	^LGitPushNegotiationCallback forAddress: (handle unsignedLongAt: 41)
+	^LGitPushNegotiationCallback forAddress: ((handle pointerAt: OFFSET_PRIM_PUSH_NEGOTIATION) asInteger)

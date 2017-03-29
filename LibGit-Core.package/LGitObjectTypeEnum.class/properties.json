@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-FFI-Enums",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitObjectTypeEnum",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalEnumerationInt32",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Enums",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitObjectTypeEnum",
+	"type" : "normal"
+}

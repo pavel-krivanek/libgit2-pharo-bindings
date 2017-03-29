@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-NonCoreObjects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitOdb",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalObject",
-	"type" : "normal" }
+	"category" : "LibGit-Core-NonCoreObjects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitOdb",
+	"type" : "normal"
+}

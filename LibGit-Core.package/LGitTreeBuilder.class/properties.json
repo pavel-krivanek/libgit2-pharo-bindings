@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-HelperObjects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitTreeBuilder",
-	"pools" : [
-		 ],
 	"super" : "LGitRepositoryObject",
-	"type" : "normal" }
+	"category" : "LibGit-Core-HelperObjects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitTreeBuilder",
+	"type" : "normal"
+}

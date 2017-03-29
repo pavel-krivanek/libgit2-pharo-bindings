@@ -1,14 +1,15 @@
 {
-	"category" : "LibGit-Core-CoreObjects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "LGitSignature",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"category" : "LibGit-Core-CoreObjects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_EMAIL",
+		"OFFSET_PRIM_NAME",
+		"OFFSET_PRIM_WHEN"
+	],
+	"instvars" : [ ],
+	"name" : "LGitSignature",
+	"type" : "normal"
+}

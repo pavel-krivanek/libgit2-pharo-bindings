@@ -1,4 +1,4 @@
 libgit-fields
 prim_transport: anObject
 	"This method was automatically generated"
-	handle pointerAt: 45 put: anObject getHandle.
+	handle pointerAt: OFFSET_PRIM_TRANSPORT put: anObject getHandle.

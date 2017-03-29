@@ -5,5 +5,5 @@ lookup
 			remote_lookup: self
 			repo: self repository
 			name: self remoteName.
-		
-		self url: self remote_url ]
+		self url: self remote_url ].
+	self flag: #todo. "shouldn't be autoreleased?"

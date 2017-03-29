@@ -1,4 +1,4 @@
 libgit-fields
 prim_new_lines
 	"This method was automatically generated"
-	^handle signedLongAt: 13
+	^handle signedLongAt: OFFSET_PRIM_NEW_LINES

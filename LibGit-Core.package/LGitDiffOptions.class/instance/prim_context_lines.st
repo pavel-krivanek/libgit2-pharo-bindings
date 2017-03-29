@@ -1,4 +1,4 @@
 libgit-fields
 prim_context_lines
 	"This method was automatically generated"
-	^handle unsignedLongAt: 29
+	^handle unsignedLongAt: OFFSET_PRIM_CONTEXT_LINES

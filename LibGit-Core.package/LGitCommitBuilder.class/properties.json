@@ -1,10 +1,10 @@
 {
-	"category" : "LibGit-Core-HelperObjects",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "LGitRepositoryObject",
+	"category" : "LibGit-Core-HelperObjects",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"author",
 		"committer",
@@ -13,9 +13,8 @@
 		"message",
 		"updateReference",
 		"messageEncoding",
-		"commitId" ],
+		"commitId"
+	],
 	"name" : "LGitCommitBuilder",
-	"pools" : [
-		 ],
-	"super" : "LGitRepositoryObject",
-	"type" : "normal" }
+	"type" : "normal"
+}

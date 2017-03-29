@@ -1,4 +1,4 @@
 libgit-fields
 prim_baseline_index: anObject
 	"This method was automatically generated"
-	handle pointerAt: 57 put: anObject getHandle.
+	handle pointerAt: OFFSET_PRIM_BASELINE_INDEX put: anObject getHandle.

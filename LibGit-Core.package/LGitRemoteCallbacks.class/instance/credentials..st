@@ -1,3 +1,4 @@
 accessing
-credentials: credentialsCallback
+credentials: aCredentialsCallback
+	credentialsCallback := aCredentialsCallback.
 	self prim_credentials: credentialsCallback

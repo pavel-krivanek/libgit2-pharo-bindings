@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-Abstracts",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitCallout",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalObject",
-	"type" : "normal" }
+	"category" : "LibGit-Core-Abstracts",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitCallout",
+	"type" : "normal"
+}

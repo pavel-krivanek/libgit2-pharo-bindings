@@ -1,4 +1,4 @@
 libgit-fields
 prim_ancestor_label: anObject
 	"This method was automatically generated"
-	handle pointerAt: 65 put: anObject getHandle.
+	handle pointerAt: OFFSET_PRIM_ANCESTOR_LABEL put: anObject getHandle.

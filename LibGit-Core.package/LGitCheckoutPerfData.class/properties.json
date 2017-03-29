@@ -1,14 +1,15 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitCheckoutPerfData",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_CHMOD_CALLS",
+		"OFFSET_PRIM_MKDIR_CALLS",
+		"OFFSET_PRIM_STAT_CALLS"
+	],
+	"instvars" : [ ],
+	"name" : "LGitCheckoutPerfData",
+	"type" : "normal"
+}

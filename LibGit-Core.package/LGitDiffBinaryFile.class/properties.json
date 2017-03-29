@@ -1,14 +1,16 @@
 {
-	"category" : "LibGit-Core-FFI-Structs",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "MaxLeske 8/13/2015 14:22",
-	"instvars" : [
-		 ],
-	"name" : "LGitDiffBinaryFile",
-	"pools" : [
-		 ],
 	"super" : "LGitExternalStructure",
-	"type" : "normal" }
+	"category" : "LibGit-Core-FFI-Structs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_PRIM_DATA",
+		"OFFSET_PRIM_DATALEN",
+		"OFFSET_PRIM_INFLATEDLEN",
+		"OFFSET_PRIM_TYPE"
+	],
+	"instvars" : [ ],
+	"name" : "LGitDiffBinaryFile",
+	"type" : "normal"
+}

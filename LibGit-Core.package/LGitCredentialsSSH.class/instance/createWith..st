@@ -4,7 +4,6 @@ createWith: aStructure
 	self assert: self username isEmptyOrNil not.
 	self assert: self publicKeyReference exists.
 	self assert: self privateKeyReference exists.
-	self assert: self passphrase notNil.
 
 	self withReturnHandlerDo: [ 
 		self 

@@ -1,4 +1,4 @@
 libgit-fields
 prim_payload: anObject
 	"This method was automatically generated"
-	handle pointerAt: 49 put: anObject getHandle.
+	handle pointerAt: OFFSET_PRIM_PAYLOAD put: anObject getHandle.

@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-Exceptions-ReturnCodes",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGit_GIT_EAMBIGUOUS",
-	"pools" : [
-		 ],
 	"super" : "LGitCallReturnHandler",
-	"type" : "normal" }
+	"category" : "LibGit-Core-Exceptions-ReturnCodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGit_GIT_EAMBIGUOUS",
+	"type" : "normal"
+}

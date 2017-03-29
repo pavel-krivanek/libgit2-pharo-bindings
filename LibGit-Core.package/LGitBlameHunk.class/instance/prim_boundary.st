@@ -1,4 +1,4 @@
 libgit-fields
 prim_boundary
 	"This method was automatically generated"
-	^handle booleanAt: 61
+	^handle booleanAt: OFFSET_PRIM_BOUNDARY

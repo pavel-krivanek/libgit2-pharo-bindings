@@ -1,14 +1,11 @@
 {
-	"category" : "LibGit-Core-Abstracts",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "LGitActionSequence",
-	"pools" : [
-		 ],
 	"super" : "DynamicVariable",
-	"type" : "normal" }
+	"category" : "LibGit-Core-Abstracts",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "LGitActionSequence",
+	"type" : "normal"
+}

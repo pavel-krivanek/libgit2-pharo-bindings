@@ -1,4 +1,4 @@
 libgit-fields
 prim_header36
 	"This method was automatically generated"
-	^handle signedByteAt: 56
+	^handle signedByteAt: OFFSET_PRIM_HEADER36
